@@ -5,3 +5,5 @@
 Aplicação de conceitos importantes em JavaScript
 
 Important concepts application in JavaScript
+
+<img src="assets/images/application.jpg">
